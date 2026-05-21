@@ -1,0 +1,14 @@
+STT   Genre                       Avg Rating      Count
+------------------------------------------------------------
+1     Film-Noir                       4.3571          7
+2     Horror                          4.0000          2
+3     Mystery                         4.0000          2
+4     Fantasy                         3.8621         29
+5     Crime                           3.8095         42
+6     Drama                           3.7578        128
+7     Sci-Fi                          3.7315         54
+8     Action                          3.7130         54
+9     Thriller                        3.7037         27
+10    Family                          3.6667         18
+11    Adventure                       3.6325         83
+12    Biography                       3.5600         25

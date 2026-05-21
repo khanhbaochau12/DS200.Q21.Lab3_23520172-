@@ -1,0 +1,87 @@
+
+  MovieID    Tên phim                            Nhóm tuổi          Avg   Count
+  --------------------------------------------------------------------------------
+  1010       Lawrence of Arabia (1962)           1. Under 18        NaN       0
+  1010       Lawrence of Arabia (1962)           2. 18-24           NaN       0
+  1010       Lawrence of Arabia (1962)           3. 25-34        3.6000       5
+  1010       Lawrence of Arabia (1962)           4. 35-44        3.2778       9
+  1010       Lawrence of Arabia (1962)           5. 45-54        3.6250       4
+  1010       Lawrence of Arabia (1962)           6. 55+             NaN       0
+  1012       Psycho (1960)                       1. Under 18        NaN       0
+  1012       Psycho (1960)                       2. 18-24           NaN       0
+  1012       Psycho (1960)                       3. 25-34        4.5000       1
+  1012       Psycho (1960)                       4. 35-44        3.5000       1
+  1012       Psycho (1960)                       5. 45-54           NaN       0
+  1012       Psycho (1960)                       6. 55+             NaN       0
+  1013       The Godfather: Part II (1974)       1. Under 18        NaN       0
+  1013       The Godfather: Part II (1974)       2. 18-24        4.0000       2
+  1013       The Godfather: Part II (1974)       3. 25-34        3.7143       7
+  1013       The Godfather: Part II (1974)       4. 35-44        4.2500       8
+  1013       The Godfather: Part II (1974)       5. 45-54           NaN       0
+  1013       The Godfather: Part II (1974)       6. 55+             NaN       0
+  1015       Sunset Boulevard (1950)             1. Under 18        NaN       0
+  1015       Sunset Boulevard (1950)             2. 18-24        4.5000       1
+  1015       Sunset Boulevard (1950)             3. 25-34        4.0000       2
+  1015       Sunset Boulevard (1950)             4. 35-44        4.5000       2
+  1015       Sunset Boulevard (1950)             5. 45-54        4.5000       2
+  1015       Sunset Boulevard (1950)             6. 55+             NaN       0
+  1020       E.T. the Extra-Terrestrial (1982)   1. Under 18        NaN       0
+  1020       E.T. the Extra-Terrestrial (1982)   2. 18-24        3.5000       2
+  1020       E.T. the Extra-Terrestrial (1982)   3. 25-34        3.5833       6
+  1020       E.T. the Extra-Terrestrial (1982)   4. 35-44        3.8125       8
+  1020       E.T. the Extra-Terrestrial (1982)   5. 45-54        4.0000       1
+  1020       E.T. the Extra-Terrestrial (1982)   6. 55+          3.0000       1
+  1025       The Terminator (1984)               1. Under 18        NaN       0
+  1025       The Terminator (1984)               2. 18-24        4.5000       1
+  1025       The Terminator (1984)               3. 25-34        4.1000       5
+  1025       The Terminator (1984)               4. 35-44        4.0000       7
+  1025       The Terminator (1984)               5. 45-54        4.1667       3
+  1025       The Terminator (1984)               6. 55+          3.7500       2
+  1028       Fight Club (1999)                   1. Under 18        NaN       0
+  1028       Fight Club (1999)                   2. 18-24           NaN       0
+  1028       Fight Club (1999)                   3. 25-34        3.5000       3
+  1028       Fight Club (1999)                   4. 35-44        3.5000       2
+  1028       Fight Club (1999)                   5. 45-54        3.5000       2
+  1028       Fight Club (1999)                   6. 55+             NaN       0
+  1030       The Silence of the Lambs (1991)     1. Under 18        NaN       0
+  1030       The Silence of the Lambs (1991)     2. 18-24           NaN       0
+  1030       The Silence of the Lambs (1991)     3. 25-34        3.0000       3
+  1030       The Silence of the Lambs (1991)     4. 35-44        3.0000       1
+  1030       The Silence of the Lambs (1991)     5. 45-54        3.3333       3
+  1030       The Silence of the Lambs (1991)     6. 55+             NaN       0
+  1037       The Lord of the Rings: The Fellowship of the Ring (2001) 1. Under 18        NaN       0
+  1037       The Lord of the Rings: The Fellowship of the Ring (2001) 2. 18-24        4.0000       1
+  1037       The Lord of the Rings: The Fellowship of the Ring (2001) 3. 25-34        4.0000       5
+  1037       The Lord of the Rings: The Fellowship of the Ring (2001) 4. 35-44        3.6875       8
+  1037       The Lord of the Rings: The Fellowship of the Ring (2001) 5. 45-54        4.1250       4
+  1037       The Lord of the Rings: The Fellowship of the Ring (2001) 6. 55+             NaN       0
+  1039       The Lord of the Rings: The Return of the King (2003) 1. Under 18        NaN       0
+  1039       The Lord of the Rings: The Return of the King (2003) 2. 18-24           NaN       0
+  1039       The Lord of the Rings: The Return of the King (2003) 3. 25-34        3.8333       3
+  1039       The Lord of the Rings: The Return of the King (2003) 4. 35-44        3.7500       6
+  1039       The Lord of the Rings: The Return of the King (2003) 5. 45-54        4.0000       2
+  1039       The Lord of the Rings: The Return of the King (2003) 6. 55+             NaN       0
+  1040       Gladiator (2000)                    1. Under 18        NaN       0
+  1040       Gladiator (2000)                    2. 18-24        3.5000       1
+  1040       Gladiator (2000)                    3. 25-34        3.4167       6
+  1040       Gladiator (2000)                    4. 35-44        3.7500       6
+  1040       Gladiator (2000)                    5. 45-54        3.8750       4
+  1040       Gladiator (2000)                    6. 55+          3.0000       1
+  1043       No Country for Old Men (2007)       1. Under 18        NaN       0
+  1043       No Country for Old Men (2007)       2. 18-24        3.5000       1
+  1043       No Country for Old Men (2007)       3. 25-34        3.8333       6
+  1043       No Country for Old Men (2007)       4. 35-44        3.7500       6
+  1043       No Country for Old Men (2007)       5. 45-54        4.3750       4
+  1043       No Country for Old Men (2007)       6. 55+          3.5000       1
+  1047       The Social Network (2010)           1. Under 18        NaN       0
+  1047       The Social Network (2010)           2. 18-24           NaN       0
+  1047       The Social Network (2010)           3. 25-34        4.0000       4
+  1047       The Social Network (2010)           4. 35-44        3.5000       2
+  1047       The Social Network (2010)           5. 45-54        4.0000       1
+  1047       The Social Network (2010)           6. 55+             NaN       0
+  1050       Mad Max: Fury Road (2015)           1. Under 18        NaN       0
+  1050       Mad Max: Fury Road (2015)           2. 18-24        3.0000       1
+  1050       Mad Max: Fury Road (2015)           3. 25-34        3.4000      10
+  1050       Mad Max: Fury Road (2015)           4. 35-44        3.6429       7
+  1050       Mad Max: Fury Road (2015)           5. 45-54           NaN       0
+  1050       Mad Max: Fury Road (2015)           6. 55+             NaN       0

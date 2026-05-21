@@ -1,0 +1,17 @@
+
+  STT   Occupation                     Avg Rating    Số lượt
+  -----------------------------------------------------------------
+  1     Programmer                         4.2500         10
+  2     Designer                           4.0000         13
+  3     Student                            4.0000          8
+  4     Nurse                              3.8636         11
+  5     Consultant                         3.8571         14
+  6     Journalist                         3.8529         17
+  7     Artist                             3.7273         11
+  8     Teacher                            3.7000          5
+  9     Doctor                             3.6905         21
+  10    Lawyer                             3.6471         17
+  11    Salesperson                        3.6471         17
+  12    Accountant                         3.5833          6
+  13    Engineer                           3.5556         18
+  14    Manager                            3.4688         16

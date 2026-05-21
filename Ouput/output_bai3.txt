@@ -1,0 +1,30 @@
+MovieID    Tên phim                                 Gender        Avg    Count
+--------------------------------------------------------------------------------
+1010       Lawrence of Arabia (1962)                F          3.3125        8
+1010       Lawrence of Arabia (1962)                M          3.5500       10
+1012       Psycho (1960)                            F          4.0000        2
+1012       Psycho (1960)                            M             NaN        0
+1013       The Godfather: Part II (1974)            F          3.9375        8
+1013       The Godfather: Part II (1974)            M          4.0556        9
+1015       Sunset Boulevard (1950)                  F          4.5000        1
+1015       Sunset Boulevard (1950)                  M          4.3333        6
+1020       E.T. the Extra-Terrestrial (1982)        F          3.5500       10
+1020       E.T. the Extra-Terrestrial (1982)        M          3.8125        8
+1025       The Terminator (1984)                    F          4.1364       11
+1025       The Terminator (1984)                    M          3.9286        7
+1028       Fight Club (1999)                        F          3.5000        3
+1028       Fight Club (1999)                        M          3.5000        4
+1030       The Silence of the Lambs (1991)          F          3.0000        4
+1030       The Silence of the Lambs (1991)          M          3.3333        3
+1037       The Lord of the Rings: The Fellowship of the Ring (2001) F          3.8000       10
+1037       The Lord of the Rings: The Fellowship of the Ring (2001) M          4.0000        8
+1039       The Lord of the Rings: The Return of the King (2003) F          3.9000        5
+1039       The Lord of the Rings: The Return of the King (2003) M          3.7500        6
+1040       Gladiator (2000)                         F          3.6429        7
+1040       Gladiator (2000)                         M          3.5909       11
+1043       No Country for Old Men (2007)            F          3.8333        6
+1043       No Country for Old Men (2007)            M          3.9167       12
+1047       The Social Network (2010)                F          3.6667        3
+1047       The Social Network (2010)                M          4.0000        4
+1050       Mad Max: Fury Road (2015)                F          3.3214       14
+1050       Mad Max: Fury Road (2015)                M          4.0000        4
